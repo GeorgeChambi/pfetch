@@ -24,9 +24,12 @@ picture"!
 <br>
 
 ## Installation
-`git clone https://github.com/GeorgeChambi/pfetch
+
+```
+git clone https://github.com/GeorgeChambi/pfetch
 sudo install pfetch/pfetch /usr/local/bin/
-ls -l /usr/local/bin/pfetch`
+ls -l /usr/local/bin/pfetch
+```
 
 ## OS support
 
